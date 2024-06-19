@@ -9,3 +9,4 @@
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11399" target="_blank">2839</a> | <a href="https://www.acmicpc.net/problem/11399" target="_blank">ATM</a> | 68.827% | <a href="./../Solution/Greedy/11399">바로가기</a> |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11047" target="_blank">2839</a> | <a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a> | 52.653% | <a href="./../Solution/Greedy/11047">바로가기</a> |
 | 03 |  :x:  | <a href="https://www.acmicpc.net/problem/1931" target="_blank">2839</a> | <a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a> | 30.638% | <a href="./../Solution/Greedy/1931">바로가기</a> |
+| 03 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1026" target="_blank">2839</a> | <a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a> | 69.413% | <a href="./../Solution/Greedy/1026">바로가기</a> |
