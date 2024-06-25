@@ -14,3 +14,4 @@
 | 06 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/5585" target="_blank">5585</a> | <a href="https://www.acmicpc.net/problem/5585" target="_blank">거스름돈</a> | 65.569% | <a href="./../Solution/Greedy/5585">바로가기</a> |
 | 07 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1789" target="_blank">1789</a> | <a href="https://www.acmicpc.net/problem/1789" target="_blank">수들의 합</a> | 41.568% | <a href="./../Solution/Greedy/1789">바로가기</a> |
 | 08 |  :grey_exclamation:  | <a href="https://www.acmicpc.net/problem/13305" target="_blank">13305</a> | <a href="https://www.acmicpc.net/problem/13305" target="_blank">주유소</a> | 38.697% | <a href="./../Solution/Greedy/13305">바로가기</a> |
+| 09 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10162" target="_blank">10162</a> | <a href="https://www.acmicpc.net/problem/10162" target="_blank">전자레인지</a> | 61.159% | <a href="./../Solution/Greedy/10162">바로가기</a> |
