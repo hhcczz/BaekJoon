@@ -4,7 +4,7 @@
 
 | 순번 | Tag                          | 태그                | 문제집    | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :------: |:---------------:|
-| 00 | Greedy | 탐욕법 | [바로가기](Solution/Greedy/READMD.md) | 14 | ![status][Doing] |
+| 00 | Greedy | 탐욕법 | [바로가기](Solution/Greedy/READMD.md) | 15 | ![status][Doing] |
 
 
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
