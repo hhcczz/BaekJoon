@@ -6,6 +6,6 @@
 | :--: | :--------------------------: | :-----------------: | :------:  | :------: |:---------------:|
 | 00 | Greedy | 탐욕법 | [바로가기](Solution/Greedy/README.md) | 15 | ![status][Doing] |
 | 01 | Implementation | 구현 | [바로가기](Solution/Implementation/README.md) | 58 | ![status][Doing] |
-| 02 | Math | 수학 | [바로가기](Solution/Math/README.md) | 1 | ![status][Doing] |
+| 02 | Mathematics | 수학 | [바로가기](Solution/Math/README.md) | 2 | ![status][Doing] |
 
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
